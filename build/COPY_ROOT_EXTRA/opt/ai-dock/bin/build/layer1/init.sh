@@ -5,10 +5,20 @@
 # Packages are installed after nodes so we can fix them...
 PYTHON_PACKAGES=(
     "opencv-python==4.7.0.72"
+    "pillow==10.2.0"
+    "insightface"
+    "onnxruntime"
+    "onnxruntime-gpu"
 )
 
 NODES=(
-    #"https://github.com/ltdrdata/ComfyUI-Manager"
+    "https://github.com/ltdrdata/ComfyUI-Manager"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://github.com/WASasquatch/was-node-suite-comfyui"
+    "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
+    "https://github.com/cubiq/ComfyUI_InstantID"
+    "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
 )
 
 CHECKPOINT_MODELS=(
