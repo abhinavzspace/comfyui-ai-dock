@@ -19,8 +19,8 @@ NODES=(
     "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
     "https://github.com/cubiq/ComfyUI_InstantID"
     "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
-    "https://github.com/liusida/ComfyUI-AutoCropFaces"
     "https://github.com/kijai/ComfyUI-KJNodes"
+    "https://github.com/Acly/comfyui-inpaint-nodes"
 )
 
 CHECKPOINT_MODELS=(
