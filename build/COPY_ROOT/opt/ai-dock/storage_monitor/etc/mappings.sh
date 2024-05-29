@@ -23,5 +23,6 @@ storage_map["stable_diffusion/models/vae"]="/opt/ComfyUI/models/vae"
 storage_map["stable_diffusion/models/vae_approx"]="/opt/ComfyUI/models/upscale_models"
 storage_map["stable_diffusion/models/instantid"]="/opt/ComfyUI/models/instantid"
 storage_map["stable_diffusion/models/insightface/models/antelopev2"]="/opt/ComfyUI/models/insightface/models/antelopev2"
+storage_map["stable_diffusion/models/inpaint"]="/opt/ComfyUI/models/inpaint"
 
 # Add more mappings for other repository directories as needed
