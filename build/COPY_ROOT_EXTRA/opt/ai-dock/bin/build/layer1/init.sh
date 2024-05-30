@@ -21,6 +21,7 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
     "https://github.com/kijai/ComfyUI-KJNodes"
     "https://github.com/Acly/comfyui-inpaint-nodes"
+    "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch"
 )
 
 CHECKPOINT_MODELS=(
