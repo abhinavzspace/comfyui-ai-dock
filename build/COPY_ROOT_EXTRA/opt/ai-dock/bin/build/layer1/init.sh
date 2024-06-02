@@ -13,15 +13,9 @@ PYTHON_PACKAGES=(
 
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
-    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
-    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
-    "https://github.com/WASasquatch/was-node-suite-comfyui"
-    "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
     "https://github.com/cubiq/ComfyUI_InstantID"
-    "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
     "https://github.com/kijai/ComfyUI-KJNodes"
-    "https://github.com/Acly/comfyui-inpaint-nodes"
-    "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch"
+    "https://github.com/chflame163/ComfyUI_LayerStyle"
 )
 
 CHECKPOINT_MODELS=(
